@@ -1,3 +1,10 @@
+# DEMO
+YOU CAN VISIT THE PAGE FROM HERE ! [cloned page](https://mostafain.github.io/first-clone-assignment-miniReactProject/)
+
+
+
+**********************************************************************************
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
