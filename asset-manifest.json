@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/first-clone-assignment-miniReactProject/static/css/main.fc41f8ac.chunk.css",
+    "main.js": "/first-clone-assignment-miniReactProject/static/js/main.fbc6f282.chunk.js",
+    "main.js.map": "/first-clone-assignment-miniReactProject/static/js/main.fbc6f282.chunk.js.map",
+    "runtime~main.js": "/first-clone-assignment-miniReactProject/static/js/runtime~main.19621c48.js",
+    "runtime~main.js.map": "/first-clone-assignment-miniReactProject/static/js/runtime~main.19621c48.js.map",
+    "static/js/2.2b27d59f.chunk.js": "/first-clone-assignment-miniReactProject/static/js/2.2b27d59f.chunk.js",
+    "static/js/2.2b27d59f.chunk.js.map": "/first-clone-assignment-miniReactProject/static/js/2.2b27d59f.chunk.js.map",
+    "index.html": "/first-clone-assignment-miniReactProject/index.html",
+    "precache-manifest.eab7df57ff912177c04529478e098a0d.js": "/first-clone-assignment-miniReactProject/precache-manifest.eab7df57ff912177c04529478e098a0d.js",
+    "service-worker.js": "/first-clone-assignment-miniReactProject/service-worker.js",
+    "static/css/main.fc41f8ac.chunk.css.map": "/first-clone-assignment-miniReactProject/static/css/main.fc41f8ac.chunk.css.map"
+  }
+}
